@@ -1,6 +1,6 @@
 # CS 112 Final Course Project — Summer 2026
 
-Team members: _add names here_
+Team members: Janice,Edem,Seli-Sanid,Nathan
 
 ## Folder structure
 
