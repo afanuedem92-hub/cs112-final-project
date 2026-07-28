@@ -1,0 +1,30 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# --- Environment / secrets ---
+.env
+*.env
+secrets.json
+
+# --- Databases (don't commit real data/db files) ---
+*.db
+*.sqlite3
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- OS junk ---
+.DS_Store
+Thumbs.db
+
+# --- Editor ---
+.vscode/
+.idea/
+
+# --- Logs ---
+*.log
