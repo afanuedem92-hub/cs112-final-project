@@ -1,0 +1,9 @@
+Substation ID,Name,Short Name,Region,Country,Latitude,Longitude,Voltage (kV),Capacity (MVA),Commissioning Year,Type,Status,Node Type
+37,Bolgatanga Interconnection,Bolgatanga Interconnection,Burkina Faso border,Burkina,11.2,-0.75,330,156.1,1991,Transmission,Active,WAPP Cross-Border
+38,Elubo Border Station,Elubo Border Station,Cote d'Ivoire border,Cote,5.2,-2.85,330,285.1,1984,Transmission,Active,WAPP Cross-Border
+39,Aflao Border Station,Aflao Border Station,Togo border,Togo,6.12,1.19,330,423.2,2015,Transmission,Active,WAPP Cross-Border
+40,Lome Transmission Hub,Lome Transmission Hub,Togo,Togo,6.13,1.22,161,120.2,2014,Transmission,Active,WAPP Cross-Border
+41,Cotonou Transmission Hub,Cotonou Transmission Hub,Benin,Benin,6.37,2.43,161,487.6,1995,Transmission,Active,WAPP Cross-Border
+42,Abidjan Transmission Hub,Abidjan Transmission Hub,Cote d'Ivoire,Cote,5.35,-4.0,161,262.6,2010,Transmission,Active,WAPP Cross-Border
+43,Bobo-Dioulasso Hub,Bobo-Dioulasso Hub,Burkina Faso,Burkina,11.18,-4.3,161,445.9,1983,Transmission,Active,WAPP Cross-Border
+44,Conakry Transmission Hub,Conakry Transmission Hub,Guinea,Guinea,9.64,-13.58,161,251.6,2004,Transmission,Active,WAPP Cross-Border
