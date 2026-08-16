@@ -1,0 +1,11 @@
+Region,Substation_Count,Total_Capacity_MVA,Avg_Voltage_kV
+Greater Accra,6,520.2,192.33333333333334
+Ashanti,5,1099.6,132.4
+Volta,4,470.3,90.75
+Central,4,316.20000000000005,105.25
+Eastern,4,828.5,54.5
+Western,4,323.0,51.0
+Bono,3,252.60000000000002,132.0
+Northern,3,155.6,124.66666666666667
+Upper East,2,520.7,161.0
+Upper West,1,27.1,11.0

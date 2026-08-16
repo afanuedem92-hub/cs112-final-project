@@ -1,0 +1,12 @@
+Substation ID,Name,Short Name,Region,Country,Latitude,Longitude,Voltage (kV),Capacity (MVA),Commissioning Year,Type,Status,Cluster
+8,Ejisu Substation,Ejisu,Ashanti,Ghana,6.7128,-1.4716,330,355.9,2007,Transmission,Active,0
+11,Konongo Substation,Konongo,Ashanti,Ghana,6.6094,-1.2163,69,285.2,1999,Bulk Supply Point,Active,0
+22,Nkawkaw Substation,Nkawkaw,Eastern,Ghana,6.5502,-0.7749,69,389.2,2005,Bulk Supply Point,Active,0
+23,Suhum Substation,Suhum,Eastern,Ghana,6.035,-0.4535,69,339.0,1975,Bulk Supply Point,Active,-1
+24,Ho Substation,Ho,Volta,Ghana,6.6194,0.473,330,382.1,1996,Transmission,Active,-1
+34,Bolgatanga Substation,Bolgatanga,Upper East,Ghana,10.7789,-0.8524,161,325.9,1992,Transmission,Active,-1
+38,Elubo Border Station,Elubo Border Station,Cote d'Ivoire border,Cote,5.2,-2.85,330,285.1,1984,Transmission,Active,-1
+39,Aflao Border Station,Aflao Border Station,Togo border,Togo,6.12,1.19,330,423.2,2015,Transmission,Active,-1
+41,Cotonou Transmission Hub,Cotonou Transmission Hub,Benin,Benin,6.37,2.43,161,487.6,1995,Transmission,Active,-1
+42,Abidjan Transmission Hub,Abidjan Transmission Hub,Cote d'Ivoire,Cote,5.35,-4.0,161,262.6,2010,Transmission,Active,-1
+43,Bobo-Dioulasso Hub,Bobo-Dioulasso Hub,Burkina Faso,Burkina,11.18,-4.3,161,445.9,1983,Transmission,Active,-1
