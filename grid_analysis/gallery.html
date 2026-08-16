@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Task 3.2 — Advanced Visualizations Gallery</title>
+<style>
+  body {
+    font-family: -apple-system, Segoe UI, Roboto, sans-serif;
+    background: #f7f7f9;
+    margin: 0;
+    padding: 40px;
+    color: #222;
+  }
+  h1 {
+    font-size: 28px;
+    margin-bottom: 4px;
+  }
+  p.subtitle {
+    color: #666;
+    margin-top: 0;
+    margin-bottom: 40px;
+  }
+  .viz-card {
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+    margin-bottom: 40px;
+    padding: 24px;
+  }
+  .viz-card h2 {
+    margin-top: 0;
+    font-size: 20px;
+  }
+  .viz-card p.desc {
+    color: #555;
+    margin-bottom: 16px;
+  }
+  iframe {
+    width: 100%;
+    height: 650px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+  }
+  img {
+    width: 100%;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+  }
+  .open-link {
+    display: inline-block;
+    margin-top: 10px;
+    font-size: 14px;
+    color: #1f6feb;
+    text-decoration: none;
+  }
+</style>
+</head>
+<body>
+
+<h1>National Grid — Advanced Visualizations Gallery</h1>
+<p class="subtitle">Task 3.2 &middot; Prepared by Member 3 (Visualization Specialist)</p>
+
+<div class="viz-card">
+  <h2>1. Grid Growth by Commissioning Year</h2>
+  <p class="desc">Animated map showing substations appearing on the network as they were commissioned, from 1967 to 2022.</p>
+  <iframe src="grid_growth_animation.html"></iframe>
+  <a class="open-link" href="grid_growth_animation.html" target="_blank">Open full screen &rarr;</a>
+</div>
+
+<div class="viz-card">
+  <h2>2. 3D Network Visualization</h2>
+  <p class="desc">Substations positioned by real latitude/longitude, with voltage level giving height — higher-voltage nodes visually rise above the network.</p>
+  <iframe src="grid_network_3d.html"></iframe>
+  <a class="open-link" href="grid_network_3d.html" target="_blank">Open full screen &rarr;</a>
+</div>
+
+<div class="viz-card">
+  <h2>3. Inter-Regional Chord Diagram</h2>
+  <p class="desc">Arcs show how many transmission lines connect each pair of regions (including WAPP cross-border links). Thicker arcs mean more connections.</p>
+  <img src="region_chord_diagram.png" alt="Region chord diagram">
+</div>
+
+<div class="viz-card">
+  <h2>4. Line Density Heatmap</h2>
+  <p class="desc">Shows where transmission line infrastructure is most concentrated geographically.</p>
+  <iframe src="line_density_heatmap.html"></iframe>
+  <a class="open-link" href="line_density_heatmap.html" target="_blank">Open full screen &rarr;</a>
+</div>
+
+<div class="viz-card">
+  <h2>5. Maintenance / Fault Status Concentration</h2>
+  <p class="desc">Highlights substations and lines currently flagged as Inactive or Under Maintenance.</p>
+  <iframe src="maintenance_status_heatmap.html"></iframe>
+  <a class="open-link" href="maintenance_status_heatmap.html" target="_blank">Open full screen &rarr;</a>
+</div>
+
+<div class="viz-card">
+  <h2>6. Utility Infrastructure Footprint Comparison</h2>
+  <p class="desc">Compares utilities by line count, total capacity, regions touched, and WAPP cross-border connections.</p>
+  <iframe src="utility_comparison.html"></iframe>
+  <a class="open-link" href="utility_comparison.html" target="_blank">Open full screen &rarr;</a>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,56 @@
+Line ID,Utility ID,Source Substation ID,Source Substation,Destination Substation ID,Destination Substation,Voltage (kV),Length (km),Capacity (MVA),Status,Line Type,Source Latitude,Source Longitude,Source Region,Destination Latitude,Destination Longitude,Destination Region,Computed Length (km),Length Diff (km),Distance Category
+1,2,1,Achimota Substation,2,Tema Substation,11,25.2,215.0,Active,Underground,5.6085,-0.2193,Greater Accra,5.6596,-0.0226,Greater Accra,22.5122344917246,2.687765508275397,Short
+2,2,1,Achimota Substation,3,Mallam Substation,11,11.0,36.4,Active,Overhead,5.6085,-0.2193,Greater Accra,5.563,-0.2971,Greater Accra,9.98088821542236,1.0191117845776407,Short
+3,3,1,Achimota Substation,5,Kaneshie Substation,11,5.9,277.4,Active,Overhead,5.6085,-0.2193,Greater Accra,5.5691,-0.2413,Greater Accra,4.992498720014161,0.9075012799858396,Short
+4,1,2,Tema Substation,3,Mallam Substation,330,34.4,39.0,Active,Underground,5.6596,-0.0226,Greater Accra,5.563,-0.2971,Greater Accra,32.23336724891878,2.1666327510812167,Short
+5,3,2,Tema Substation,4,Legon Substation,161,19.5,186.5,Active,Underground,5.6596,-0.0226,Greater Accra,5.6401,-0.1799,Greater Accra,17.5589736972104,1.9410263027895984,Short
+6,2,3,Mallam Substation,4,Legon Substation,161,17.1,220.5,Active,Underground,5.563,-0.2971,Greater Accra,5.6401,-0.1799,Greater Accra,15.533774611401205,1.566225388598797,Short
+7,3,3,Mallam Substation,5,Kaneshie Substation,161,7.0,108.5,Active,Overhead,5.563,-0.2971,Greater Accra,5.5691,-0.2413,Greater Accra,6.219226328810708,0.7807736711892916,Short
+8,3,3,Mallam Substation,6,Aboadze Junction Substation,161,22.4,298.9,Under Maintenance,Overhead,5.563,-0.2971,Greater Accra,5.5921,-0.1439,Greater Accra,17.27629275814118,5.123707241858817,Short
+9,1,4,Legon Substation,5,Kaneshie Substation,161,13.4,266.6,Active,Underground,5.6401,-0.1799,Greater Accra,5.5691,-0.2413,Greater Accra,10.38851597090923,3.01148402909077,Short
+10,2,4,Legon Substation,6,Aboadze Junction Substation,161,8.4,217.0,Active,Overhead,5.6401,-0.1799,Greater Accra,5.5921,-0.1439,Greater Accra,6.639499052444794,1.7605009475552065,Short
+11,1,7,Kumasi Central Substation,10,Mampong Substation,69,53.3,269.1,Active,Overhead,6.6856,-1.623,Ashanti,7.0553,-1.4029,Ashanti,47.57501378643845,5.724986213561543,Medium
+12,3,7,Kumasi Central Substation,11,Konongo Substation,69,50.4,116.0,Active,Underground,6.6856,-1.623,Ashanti,6.6094,-1.2163,Ashanti,45.75400147685822,4.6459985231417775,Medium
+13,2,8,Ejisu Substation,9,Obuasi Substation,33,76.1,256.9,Active,Underground,6.7128,-1.4716,Ashanti,6.2091,-1.6557,Ashanti,59.3091732677362,16.790826732263795,Medium
+14,2,8,Ejisu Substation,11,Konongo Substation,69,37.8,198.4,Active,Underground,6.7128,-1.4716,Ashanti,6.6094,-1.2163,Ashanti,30.45735124760209,7.342648752397899,Short
+15,1,9,Obuasi Substation,11,Konongo Substation,33,71.0,284.6,Active,Overhead,6.2091,-1.6557,Ashanti,6.6094,-1.2163,Ashanti,65.74667081230585,5.253329187694149,Medium
+16,2,10,Mampong Substation,11,Konongo Substation,69,64.2,61.5,Active,Underground,7.0553,-1.4029,Ashanti,6.6094,-1.2163,Ashanti,53.45182562204576,10.748174377954244,Medium
+17,1,12,Takoradi Substation,13,Aboadze Substation,33,12.3,78.8,Active,Overhead,4.9048,-1.7562,Western,4.9905,-1.7714,Western,9.625693446737037,2.6743065532629657,Short
+18,3,12,Takoradi Substation,14,Tarkwa Substation,33,66.2,133.8,Active,Overhead,4.9048,-1.7562,Western,5.3093,-1.9927,Western,51.85079394949926,14.34920605050074,Medium
+19,1,13,Aboadze Substation,14,Tarkwa Substation,33,55.8,247.0,Active,Overhead,4.9905,-1.7714,Western,5.3093,-1.9927,Western,42.951882980390494,12.848117019609504,Medium
+20,2,13,Aboadze Substation,15,Axim Substation,33,66.4,135.3,Active,Overhead,4.9905,-1.7714,Western,4.8747,-2.2381,Western,53.32213678068143,13.077863219318573,Medium
+21,3,14,Tarkwa Substation,15,Axim Substation,69,59.7,264.2,Active,Overhead,5.3093,-1.9927,Western,4.8747,-2.2381,Western,55.22792333378056,4.472076666219444,Medium
+22,2,16,Cape Coast Substation,17,Winneba Substation,69,84.4,249.8,Active,Overhead,5.1068,-1.2411,Central,5.362,-0.6218,Central,74.22845100976896,10.171548990231043,Medium
+23,1,16,Cape Coast Substation,18,Kasoa Substation,11,118.3,98.0,Under Maintenance,Underground,5.1068,-1.2411,Central,5.5262,-0.4124,Central,102.90057349363228,15.399426506367718,Medium
+24,3,16,Cape Coast Substation,19,Assin Fosu Substation,11,82.4,294.7,Active,Overhead,5.1068,-1.2411,Central,5.6984,-1.497,Central,71.30440571438217,11.095594285617835,Medium
+25,2,17,Winneba Substation,18,Kasoa Substation,11,32.3,289.5,Active,Overhead,5.362,-0.6218,Central,5.5262,-0.4124,Central,29.4656059683398,2.8343940316601994,Short
+26,2,18,Kasoa Substation,19,Assin Fosu Substation,11,140.9,295.6,Active,Overhead,5.5262,-0.4124,Central,5.6984,-1.497,Central,121.661683826826,19.238316173174013,Medium
+27,3,20,Koforidua Substation,21,Akosombo Substation,11,48.0,165.6,Active,Overhead,6.1017,-0.254,Eastern,6.2991,0.0641,Eastern,41.42382455779003,6.576175442209973,Short
+28,1,20,Koforidua Substation,22,Nkawkaw Substation,11,98.0,277.8,Active,Overhead,6.1017,-0.254,Eastern,6.5502,-0.7749,Eastern,76.03858459421697,21.96141540578303,Medium
+29,2,21,Akosombo Substation,22,Nkawkaw Substation,69,117.8,111.3,Active,Overhead,6.2991,0.0641,Eastern,6.5502,-0.7749,Eastern,96.87928793058056,20.920712069419423,Medium
+30,3,21,Akosombo Substation,23,Suhum Substation,69,82.7,209.6,Active,Underground,6.2991,0.0641,Eastern,6.035,-0.4535,Eastern,64.3029688304262,18.397031169573808,Medium
+31,1,22,Nkawkaw Substation,23,Suhum Substation,69,75.9,78.9,Active,Underground,6.5502,-0.7749,Eastern,6.035,-0.4535,Eastern,67.16329013967456,8.736709860325448,Medium
+32,2,24,Ho Substation,25,Kpong Substation,11,79.5,163.1,Active,Overhead,6.6194,0.473,Volta,6.1597,0.1061,Volta,65.05429223712136,14.44570776287864,Medium
+33,3,24,Ho Substation,27,Sogakope Substation,11,84.4,113.9,Active,Overhead,6.6194,0.473,Volta,5.9995,0.5762,Volta,69.49784308551072,14.902156914489282,Medium
+34,1,25,Kpong Substation,27,Sogakope Substation,11,59.7,32.9,Active,Overhead,6.1597,0.1061,Volta,5.9995,0.5762,Volta,54.97184476936522,4.728155230634783,Medium
+35,3,26,Hohoe Substation,27,Sogakope Substation,11,152.5,221.1,Active,Underground,7.1436,0.4766,Volta,5.9995,0.5762,Volta,127.00326595689232,25.49673404310768,Long
+36,3,28,Sunyani Substation,29,Techiman Substation,33,63.1,269.9,Active,Overhead,7.3375,-2.3318,Bono,7.5934,-1.9405,Bono,51.63839005803308,11.461609941966929,Medium
+37,3,29,Techiman Substation,30,Berekum Substation,33,87.3,34.1,Active,Overhead,7.5934,-1.9405,Bono,7.4443,-2.5946,Bono,74.05136687098006,13.248633129019936,Medium
+38,2,31,Tamale Substation,32,Yendi Substation,11,112.6,296.6,Active,Underground,9.4072,-0.8508,Northern,9.4368,-0.0076,Northern,92.66443852131066,19.935561478689337,Medium
+39,3,34,Bolgatanga Substation,35,Bawku Substation,161,86.6,64.6,Active,Underground,10.7789,-0.8524,Upper East,11.0615,-0.2333,Upper East,74.54842609924621,12.05157390075378,Medium
+40,3,1,Achimota Substation,7,Kumasi Central Substation,330,225.4,303.7,Active,Overhead,5.6085,-0.2193,Greater Accra,6.6856,-1.623,Ashanti,195.77038569649355,29.629614303506457,Long
+41,3,7,Kumasi Central Substation,12,Takoradi Substation,330,228.3,298.9,Active,Overhead,6.6856,-1.623,Ashanti,4.9048,-1.7562,Western,197.4827373310172,30.817262668982835,Long
+42,3,12,Takoradi Substation,16,Cape Coast Substation,330,70.5,455.1,Active,Overhead,4.9048,-1.7562,Western,5.1068,-1.2411,Central,61.33559291906841,9.16440708093159,Medium
+43,3,16,Cape Coast Substation,20,Koforidua Substation,330,178.8,506.3,Active,Overhead,5.1068,-1.2411,Central,6.1017,-0.254,Eastern,155.12665683656255,23.673343163437465,Long
+44,3,20,Koforidua Substation,24,Ho Substation,330,113.7,408.5,Active,Overhead,6.1017,-0.254,Eastern,6.6194,0.473,Volta,98.7287502132656,14.971249786734404,Medium
+45,3,24,Ho Substation,28,Sunyani Substation,330,367.7,450.7,Active,Overhead,6.6194,0.473,Volta,7.3375,-2.3318,Bono,319.9414496255462,47.75855037445376,Long
+46,3,28,Sunyani Substation,31,Tamale Substation,330,324.3,309.8,Active,Overhead,7.3375,-2.3318,Bono,9.4072,-0.8508,Northern,281.07280117313303,43.22719882686698,Long
+47,3,31,Tamale Substation,34,Bolgatanga Substation,330,175.4,231.0,Active,Overhead,9.4072,-0.8508,Northern,10.7789,-0.8524,Upper East,151.7216913063046,23.678308693695413,Long
+48,3,34,Bolgatanga Substation,36,Wa Substation,330,227.0,314.3,Active,Overhead,10.7789,-0.8524,Upper East,10.0682,-2.506,Upper West,197.387577935362,29.612422064638,Long
+49,9,34,Bolgatanga Substation,37,Bolgatanga Interconnection,330,53.0,217.9,Active,Overhead,10.7789,-0.8524,Upper East,11.2,-0.75,Burkina Faso border,47.90540608524318,5.094593914756821,Medium
+50,9,37,Bolgatanga Interconnection,43,Bobo-Dioulasso Hub,330,426.0,229.9,Active,Overhead,11.2,-0.75,Burkina Faso border,11.18,-4.3,Burkina Faso,387.7242126215272,38.27578737847284,Long
+51,5,38,Elubo Border Station,7,Kumasi Central Substation,330,235.2,285.0,Active,Overhead,5.2,-2.85,Cote d'Ivoire border,6.6856,-1.623,Ashanti,213.18305629872657,22.01694370127342,Long
+52,5,38,Elubo Border Station,42,Abidjan Transmission Hub,330,141.3,184.6,Active,Overhead,5.2,-2.85,Cote d'Ivoire border,5.35,-4.0,Cote d'Ivoire,128.55345698854484,12.746543011455174,Medium
+53,6,39,Aflao Border Station,2,Tema Substation,330,157.9,207.8,Active,Overhead,6.12,1.19,Togo border,5.6596,-0.0226,Greater Accra,143.60617523199804,14.293824768001969,Long
+54,6,39,Aflao Border Station,40,Lome Transmission Hub,330,3.8,323.5,Active,Overhead,6.12,1.19,Togo border,6.13,1.22,Togo,3.499949191070315,0.3000508089296847,Short
+55,6,40,Lome Transmission Hub,41,Cotonou Transmission Hub,330,150.0,326.6,Active,Overhead,6.13,1.22,Togo,6.37,2.43,Benin,136.50622143425304,13.493778565746965,Long
