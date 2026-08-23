@@ -1,0 +1,10 @@
+{
+  "CLINIC001": {
+    "clinic_id": "CLINIC001",
+    "name": "Ashesi Community Clinic",
+    "clinician_id": "12350000",
+    "patient_ids": [
+      "12342024"
+    ]
+  }
+}
