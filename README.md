@@ -1,6 +1,10 @@
 # CS 112 Final Course Project — Summer 2026
 
-Team members: Janice,Edem,Seli-Sanid,Nathan
+Team members: 
+Nathan Nii Adjei Anum- Role 1
+Yidana Seli Sanid -Role 2
+Janice Wetawuki Mpuah- Role 3
+Edem Yaw Afanu -Role 4
 
 ## Folder structure
 
