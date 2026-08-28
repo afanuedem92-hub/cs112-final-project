@@ -3,7 +3,11 @@ import glob
 import os
 
 # Find all CSV files in this folder
-files = glob.glob("*.csv")
+import os
+
+script_dir = os.path.dirname(os.path.abspath(__file__))
+data_path = os.path.join(script_dir, "..", "data", "*.csv")
+files = glob.glob(data_path)
 
 if len(files) == 0:
     print("No CSV files found.")
