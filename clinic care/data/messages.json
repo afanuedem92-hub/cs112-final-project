@@ -1,0 +1,83 @@
+{
+    "MSG00001": {
+        "sender_id": "12342024",
+        "recipient_id": "12350000",
+        "content": "Hi Dr. Boateng, I submitted my BP log for this week.",
+        "timestamp": "2026-08-23T17:27:55.264429",
+        "read": false,
+        "urgent": false,
+        "expiry_date": null
+    },
+    "MSG00002": {
+        "sender_id": "12350000",
+        "recipient_id": "12342024",
+        "content": "Thanks Kwame, I'll review it shortly.",
+        "timestamp": "2026-08-23T17:27:55.278500",
+        "read": false,
+        "urgent": false,
+        "expiry_date": null
+    },
+    "MSG00003": {
+        "sender_id": "12350000",
+        "recipient_id": "ALL:CLINIC001",
+        "content": "Clinic closed this Friday for maintenance.",
+        "timestamp": "2026-08-23T17:27:55.292981",
+        "read": false,
+        "urgent": true,
+        "expiry_date": "2026-08-30"
+    },
+    "MSG00004": {
+        "sender_id": "12342024",
+        "recipient_id": "12350000",
+        "content": "Hi Dr. Boateng, I submitted my BP log for this week.",
+        "timestamp": "2026-08-23T17:32:49.672843",
+        "read": false,
+        "urgent": false,
+        "expiry_date": null
+    },
+    "MSG00005": {
+        "sender_id": "12350000",
+        "recipient_id": "12342024",
+        "content": "Thanks Kwame, I'll review it shortly.",
+        "timestamp": "2026-08-23T17:32:49.689965",
+        "read": false,
+        "urgent": false,
+        "expiry_date": null
+    },
+    "MSG00006": {
+        "sender_id": "12350000",
+        "recipient_id": "ALL:CLINIC001",
+        "content": "Clinic closed this Friday for maintenance.",
+        "timestamp": "2026-08-23T17:32:49.702534",
+        "read": false,
+        "urgent": true,
+        "expiry_date": "2026-08-30"
+    },
+    "MSG00007": {
+        "sender_id": "12350000",
+        "recipient_id": "12342024",
+        "content": "how are you feeling today",
+        "timestamp": "2026-08-23T17:53:27.346177",
+        "read": false,
+        "urgent": false,
+        "expiry_date": null
+    },
+    "MSG00008": {
+        "sender_id": "12342024",
+        "recipient_id": "12350000",
+        "content": "goooddd",
+        "timestamp": "2026-08-23T17:53:49.104375",
+        "read": false,
+        "urgent": false,
+        "expiry_date": null
+    },
+    "MSG00009": {
+        "sender_id": "12350000",
+        "recipient_id": "ALL:CLINIC001",
+        "content": "come home",
+        "timestamp": "2026-08-23T17:54:29.874766",
+        "read": false,
+        "urgent": false,
+        "expiry_date": null
+    }
+}
